@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Contatos</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_ok">Ok</string>
+    <string name="txt_Telefone">Telefone:</string>
+    <string name="txt_nome">Nome:</string>
+    <string name="action_add">Adicionar</string>
+    <string name="action_info">Informações</string>
+    <string name="autor">Autor:</string>
+    <string name="william">William Ricardo Munaretto</string>
+    <string name="contato">Contato:</string>
+    <string name="email">willliam.munaretto@gmail.com</string>
+    <string name="celular">Tel</string>
+    <string name="celularNumber">(45) 99924-0408</string>
+    <string name="texto">Este aplicativo é o trabalho final da disciplina de Desenvovimento de Aplicativos Móveis</string>
+    <string name="rodape">Todos os direitos reservados</string>
+    <string name="sobre">Sobre</string>
+    <string name="EditarContato">Editar contato</string>
+</resources>
